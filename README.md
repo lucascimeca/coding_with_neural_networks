@@ -1,7 +1,7 @@
 # Coding With Neural Networks, by Luca Scimeca
 
 ![Alt Text](https://github.com/lucascimeca/coding_with_neural_networks/blob/master/assets/modularTLfCD-NN_no_title_short.gif)
-![Alt Text](/assets/modularTLfCD-NN_no_title_short.gif | width=100)
+![Alt Text](./assets/modularTLfCD-NN_no_title_short.gif | width=100)
 
 The code in this repository has been developed as a project for the course "Center for Brains, Minds and Machines summer school 2019". 
 The code is meant to capture a novel compositional neural network achitecture developed during the course, and shown to be able to both learn to play "Game of Life" on arbitrarily long boards as well as perform "parity bit checking" on arbitrarily long bite strings.
