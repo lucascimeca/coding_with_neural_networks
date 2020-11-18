@@ -1,5 +1,6 @@
 # Coding With Neural Networks, by Luca Scimeca
 
+![Alt Text](https://github.com/lucascimeca/coding_with_neural_networks/blob/master/assets/modularTLfCD-NN_no_title_short.gif)
 ![Alt Text](/assets/modularTLfCD-NN_no_title_short.gif | width=100)
 
 The code in this repository has been developed as a project for the course "Center for Brains, Minds and Machines summer school 2019". 
